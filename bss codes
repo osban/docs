@@ -1,0 +1,120 @@
+bss: automatically generated shorthand codes
+These are the ones I mostly use.
+
+ac = alignContent
+ai = alignItems
+as = alignSelf
+
+b = bottom
+bb = borderBottom
+bc = backgroundColor
+bl = borderLeft
+br = borderRadius
+brx = backgroundRepeatX
+bry = backgroundRepeatY
+bs = boxShadow
+bt = borderTop
+bw = borderWidth
+
+c = color
+
+d = display
+
+f = float
+ff = fontFamily
+fs = fontSize
+fv = fontVariant
+
+g = grid
+ga = gridArea
+gac = gridAutoColumns
+gaf = gridAutoFlow
+gar = gridAutoRows
+gc = gridColumn
+gce = gridColumnEnd
+gcg = gridColumnGap
+gcs = gridColumnStart
+gg = gridGap
+gr = gridRow
+gre = gridRowEnd
+grg = gridRowGap
+grs = gridRowStart
+gt = gridTemplate
+gta = gridTemplateAreas
+gtc = gridTemplateColumns
+gtr = gridTemplateRows
+
+h = height
+
+jc = justifyContent
+ji = justifyItems
+js = justifySelf
+
+l = left
+lb = lineBreak
+lh = lineHeight
+ls = letterSpacing
+
+m = margin
+mb = marginBottom
+mh = maxHeight
+ml = marginLeft
+mr = marginRight
+mt = marginTop
+mw = maxWidth
+
+o = opacity
+ox = overflowX
+oy = overflowY
+
+p = padding
+pb = paddingBottom
+pl = paddingLeft
+pr = paddingRight
+pt = paddingTop
+
+r = right
+
+t = top
+ta = textAlign
+
+us = userSelect
+
+va = verticalAlign
+v = visibility
+
+w = width
+
+zi = zIndex
+
+notably missing:
+background
+border
+borderCollapse
+borderColor
+borderRight
+
+clear
+columns
+columnSpan
+content
+cursor
+
+filter
+font
+fontStyle
+fontWeight
+
+listStyle
+
+minHeight
+minWidth
+
+overflow
+
+position
+
+textShadow
+touchAction
+transform
+transition
