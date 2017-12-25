@@ -8,7 +8,9 @@ as = alignSelf
 b = bottom
 bb = borderBottom
 bc = backgroundColor
+bi = backgroundImage
 bl = borderLeft
+bp = backgroundPosition
 br = borderRadius
 brx = backgroundRepeatX
 bry = backgroundRepeatY
@@ -77,6 +79,9 @@ r = right
 
 t = top
 ta = textAlign
+td = textDecoration
+ti = textIndent
+tt = textTransform
 
 us = userSelect
 
