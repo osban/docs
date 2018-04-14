@@ -82,3 +82,10 @@ m.route(document.body, '/', {
   '/about': {render: () => m(About)}
 })
 ```
+
+## Auto-redraw and AJAX calls
+When does Mithril redraw?
+1. Data, which is displayed in the View, changes.
+2. Certain events, like `onclick`, `oninput`, and `onchange`.
+3. `m.request` calls finish.
+
